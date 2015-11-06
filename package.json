@@ -1,0 +1,28 @@
+{
+  "name": "argument-index",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Pass an argument at a specified index along to a function",
+  "license": "MIT",
+  "repository": "bendrucker/argument-index",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "functional",
+    "argument",
+    "index"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
