@@ -1,7 +1,7 @@
 {
   "name": "argument-index",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pass an argument at a specified index along to a function",
   "license": "MIT",
   "repository": "bendrucker/argument-index",
