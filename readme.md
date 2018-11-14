@@ -1,4 +1,4 @@
-# argument-index [![Build Status](https://travis-ci.org/bendrucker/argument-index.svg?branch=master)](https://travis-ci.org/bendrucker/argument-index)
+# argument-index [![Build Status](https://travis-ci.org/bendrucker/argument-index.svg?branch=master)](https://travis-ci.org/bendrucker/argument-index) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/argument-index.svg)](https://greenkeeper.io/)
 
 > Pass an argument at a specified index along to a function
 
